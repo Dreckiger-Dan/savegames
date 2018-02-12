@@ -1,0 +1,29 @@
+(22:47:44.719) [OpenAL] Context created
+(22:47:44.720) [OpenAL] Available mono sources : 255
+(22:47:44.725) [OpenAL] Sound manager initialized!
+(22:47:44.731) [Version] INFORMATION : 1.11, Build Date : 6/24/2014 8:48 AM
+(22:47:44.934) [MonoGame] INFORMATION : OpenGL version 4.5.0 NVIDIA 384.111
+(22:47:44.934) [MonoGame] INFORMATION : Vendor is NVIDIA Corporation
+(22:47:44.934) [MonoGame] INFORMATION : GLSL version 4.50 NVIDIA
+(22:47:44.944) [MonoGame] INFORMATION : Using EXT_swap_control_tear VSync!
+(22:47:44.966) [MonoGame] INFORMATION : Using EXT_swap_control_tear VSync!
+(22:47:44.967) [SettingsManager] INFORMATION : Screen set to {Width:1280 Height:720 Format:Color RefreshRate60}
+(22:47:44.967) [SettingsManager] INFORMATION : Backbuffer is 1280x720
+(22:47:45.373) [Intro] INFORMATION : First draw done!
+(22:47:46.679) [StaticPreloader] INFORMATION : SharedContentManager preloaded.
+(22:47:47.994) [StaticPreloader] INFORMATION : Music library initialized.
+(22:47:48.010) [StaticPreloader] INFORMATION : Volume levels loaded.
+(22:47:48.066) [StaticPreloader] INFORMATION : Animations filled.
+(22:47:48.066) [StaticPreloader] INFORMATION : Text scroll pre-initialized.
+(22:47:48.067) [StaticPreloader] INFORMATION : World map pre-initialized.
+(22:47:48.067) [StaticPreloader] INFORMATION : Pause menu pre-initialized.
+(22:47:48.240) [Intro] INFORMATION : Preloading complete.
+(22:47:48.497) [Intro] INFORMATION : Changing Intro Screen to : Polytron
+(22:47:51.717) [Intro] INFORMATION : Changing Intro Screen to : Trapdoor
+(22:47:53.586) [Intro] INFORMATION : Changing Intro Screen to : TrixelEngine
+(22:47:56.059) [Intro] INFORMATION : Changing Intro Screen to : SaveIndicator
+(22:47:59.021) [Intro] INFORMATION : Changing Intro Screen to : Fez
+(22:48:02.230) [Intro] INFORMATION : Changing Intro Screen to : Zoom
+(22:48:06.167) [Intro] INFORMATION : Changing Intro Screen to : SignInChooseDevice
+(22:48:06.200) [Intro] INFORMATION : Changing Intro Screen to : MainMenu
+(22:48:12.701) [FEZ] INFORMATION : Exiting.
